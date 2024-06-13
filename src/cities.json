@@ -1,0 +1,48 @@
+[
+    
+    {
+        "id": 524901,
+        "name": "Moscow",
+        "state": "",
+        "country": "Russia",
+        "coord": {
+            "lon": 37.615555,
+            "lat": 55.75222
+        }
+    },
+    {
+        "id": 498817,
+        "name": "Saint Petersburg",
+        "state": "",
+        "country": "Russia",
+        "coord": {
+            "lon": 30.264168,
+            "lat": 59.894444
+        }
+    },
+    
+    
+    
+    {
+        "id": 2013348,
+        "name": "Vladivostok",
+        "state": "",
+        "country": "Russia",
+        "coord": {
+            "lon": 131.873535,
+            "lat": 43.105621
+        }
+    },
+    
+    {
+        "id": 1486209,
+        "name": "Yekaterinburg",
+        "state": "",
+        "country": "Russia",
+        "coord": {
+            "lon": 60.612499,
+            "lat": 56.857498
+        }
+    }
+    
+]
